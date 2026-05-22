@@ -6,7 +6,7 @@ A modern, interactive habit tracker built with **HTML, CSS, and Vanilla JavaScri
 
 ##  Live Demo
 
-https://github.com/zeeshangc36/HabitFlow.git
+Not deployed yet.
 
 ---
 
