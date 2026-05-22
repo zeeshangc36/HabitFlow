@@ -4,14 +4,9 @@ A modern, interactive habit tracker built with **HTML, CSS, and Vanilla JavaScri
 
 ---
 
-## 🚀 Live Demo
+##  Live Demo
 
-No deployment link yet.
-
-(Optional if you deploy later)
-- Vercel: https://your-app-url.vercel.app  
-- Netlify: https://your-app-url.netlify.app  
-- GitHub Pages: https://your-username.github.io/habitflow  
+https://github.com/zeeshangc36/HabitFlow.git
 
 ---
 
